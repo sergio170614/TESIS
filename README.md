@@ -27,6 +27,7 @@ Se implementaron y compararon tres modelos supervisados de regresión para estim
 ## Datos
 
 Los datos provienen de la base estadística RR-8 de la Comisión Nacional de Seguros y Fianzas (CNSF), correspondiente al año de ejercicio 2024.
+Link: https://www.cnsf.gob.mx/EntidadesSupervisadas/InstitucionesSociedadesMutualistas/Paginas/Automoviles.aspx
 
 ## Autor
 
